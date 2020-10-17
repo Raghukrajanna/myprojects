@@ -7,7 +7,7 @@ public class accountclass {
 	Scanner input=new Scanner(System.in);
 	DecimalFormat moneyFormat=new DecimalFormat("'$'###,#0.00");
 	
-	
+	//t
 	//set the customer number
 	
 	public int setCustomerNumber(int customerNumber)
